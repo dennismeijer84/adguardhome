@@ -2,4 +2,4 @@
 ! Title: Custom Block List for own use
 
 ||cloudflare-dns.com
-||quotev.com^
+||quotev.com
